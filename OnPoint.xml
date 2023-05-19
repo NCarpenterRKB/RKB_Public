@@ -1,6 +1,7 @@
-<site-list version="6">
+<site-list version="7">
   <site url="http://gui.och.lan:8080/hms/hmsx.html" comment="HMS">
-    <compat-mode>Default</compat-mode>
+    <compat-mode>IE7Enterprise</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
 </site-list>
+
