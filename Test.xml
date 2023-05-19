@@ -1,0 +1,6 @@
+<site-list version="Test">
+  <site url="https://www.catalog.update.microsoft.com/Search.aspx?q=kb">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+</site-list>
